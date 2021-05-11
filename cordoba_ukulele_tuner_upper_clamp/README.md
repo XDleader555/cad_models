@@ -1,4 +1,4 @@
-# Cordoba Ukulele Tiner Upper Clamp
+# Cordoba Ukulele Tuner Upper Clamp
 Replacement Upper Clamp for the cheap tuner which came with my ukulele.
 
 This model can also be found on thingiverse:
