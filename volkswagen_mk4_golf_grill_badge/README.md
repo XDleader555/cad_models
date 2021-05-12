@@ -14,10 +14,10 @@ Volkswagen badge/emblem part numbers:
 1J6853679HJGS GTI Chrome/Red
 1J6853679DPWV R32 Chrome
 1J6853679EGQF V6 Chrome/Red
-
+ 
 There's no official part number for the TDI grill badge.
 
 This project can also be found on thingiverse:
 https://www.thingiverse.com/thing:4855448
 
-![Preview](https://github.com/XDleader555/cad_models/raw/main/volkswagen_gti_grill_badge_mount/GTI%20Grill%20Badge%20Mount.jpg)
+![Preview](https://github.com/XDleader555/cad_models/raw/main/volkswagen_mk4_golf_grill_badge/res/VW%20MK4%20GTI%20Grill%20Badge%20Chrome%20and%20Red.jpg)
