@@ -1,21 +1,27 @@
 # Volkswagen MK4 Golf Grill Badge
-I was having trouble finding this grill badge for my GTI, so I recreated it myself. Print the badge mount and apply a replacement trunk badge to it, which can be found on Amazon or eBay for around $10. This model conveniently uses the same OEM mounting points.
+I was having trouble finding this grill badge/emblem for my GTI, so I recreated it myself. Print the badge mount and stick a replacement hatch emblem to it. Knockoff hatch emblems can be found on Amazon, eBay, or Aliexpress for around $10. This model conveniently uses the same OEM mounting points.
 
-Attach the slide lock before installing, and slide it towards the front to prevent unwanted removal. 
+Attach the optional slide lock and slide to towards the front after installation to prevent unwanted removal. Depress the center to release the lock.
 
-If you can't order the replacement trunk badge, you can print one of the included badge models and paint to your liking.
+If you can't procure a replacement hatch emblem for a reasonable price, you can print one of the included models and paint it to your liking.
 
-TDI badge mount is approximate since I don't own a TDI. Send me a PM if you have the dimensions for this badge.
+Todo:
+Template model
+Regular GTI Badge
+TDI Badge
+R32 Badge
 
-You can also remix the template file to create a custom badge mount.
+Volkswagen part numbers for reference:
 
-Volkswagen badge/emblem part numbers:
-1J6853679CFDY GTI Chrome 25th
-1J6853679HJGS GTI Chrome/Red
-1J6853679DPWV R32 Chrome
-1J6853679EGQF V6 Chrome/Red
- 
-There's no official part number for the TDI grill badge.
+| Description             | Font Style  | Grill Emblem  | Hatch Emblem   |
+| :---------------------: | :---------: | :-----------: | :------------: |
+| GTI MK4 25th/MK5 Chrome | Serif       | 1J6853679CFDY | 1K0853675BJ739 |
+| GTI MK4 25th/MK5 Red    | Serif       | 1J6853679HJGS | 5G0853675ACJZQ |
+| GTI MK4 Chrome          | Sans        |               | 1J0853675B739  |
+| TDI MK4 Chrome          | Sans        |               | 3B0853675AN739 |
+| TDI MK4 Red             | Sans        |               | 1J0853675ACGQF |
+| TDI MK6/MK7 Chrome      | Italic Sans |               | 5G0853675D2ZZ  |
+| R32 MK4 Chrome          | Italic Sans | 1J6853679DPWV | 1J0853675Q739  |
 
 This project can also be found on thingiverse:
 https://www.thingiverse.com/thing:4855448
