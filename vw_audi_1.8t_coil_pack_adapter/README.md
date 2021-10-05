@@ -7,7 +7,9 @@ On the older style valve cover with the factory bolt down coils, the newer coils
 
 These are modeled after the Hitachi 06B905115E coils, with predefined mounting angles from the OE 077905390 plastic adapter.
 
-Print the coil pack adapters in ABS, upside down, with supports. If you wish to retain the vacuum reservoir or you're like me and can't be bothered to move it, print three of the reservoir retention standoffs. Press the compression limiters into the adapters and standoffs using a vise. Install the adapter on the coil first, and then push them onto the spark plug. Torque the bolts to spec. After installation, drive around until the engine is up to temperature and then re-torque the adapter bolts. 
+Print the coil pack adapters in ABS, upside down, with supports. If you wish to retain the vacuum reservoir or you're like me and can't be bothered to move it, print three of the reservoir retention standoffs or buy some from the link below. Press the compression limiters into the 3D printed adapters and standoffs using a vise. Install the adapter on the coil first, and then push them onto the spark plug. Torque the bolts to spec. After installation, drive around until the engine is up to temperature and then re-torque the adapter bolts. 
+
+If you want to go all out, you can send the optimized STEP file to a machine shop to have milled out of aluminum.
 
 You can purchase the ignition coil seal for improved moisture protection, but you can also print the included file in TPU.
 
@@ -22,6 +24,9 @@ https://www.mcmaster.com/95263A576/
 
 Compression Limiters:
 https://www.mcmaster.com/91868A429/
+
+M6 x 10mm Standoff:
+https://www.mcmaster.com/94669A175/
 
 Ignition Coil (06E905115E):
 https://www.rockauto.com/en/parts/bosch,0221604800,ignition+coil,7060
