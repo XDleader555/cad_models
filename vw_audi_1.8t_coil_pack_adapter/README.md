@@ -38,8 +38,8 @@ https://www.mcmaster.com/91868A429/
 M6 x 10mm Standoff:
 https://www.mcmaster.com/94669A175/
 
-Ignition Coil (06E905115E):
-https://www.rockauto.com/en/parts/bosch,0221604800,ignition+coil,7060
+Ignition Coil (07K905715G):
+https://www.rockauto.com/en/parts/bosch,0221604115,ignition+coil,7060
 
 Spark Plugs (BKR7EIX):
 https://www.rockauto.com/en/parts/ngk,2667,spark+plug,7212
