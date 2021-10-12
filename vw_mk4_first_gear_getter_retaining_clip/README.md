@@ -7,3 +7,5 @@ You can purchase upgraded shifter bushings at https://www.dieselgeek.com/
 
 This project can also be found on thingiverse:
 https://www.thingiverse.com/thing:4855381
+
+![Preview](https://github.com/XDleader555/cad_models/raw/main/vw_mk4_first_gear_getter_retaining_clip/res/first_gear_getter_retaining_clip_preview.jpg)
