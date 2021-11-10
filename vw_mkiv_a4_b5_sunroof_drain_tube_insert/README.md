@@ -1,7 +1,7 @@
 # Volkswagen MKIV/A4/B5 Sunroof Drain Tube Insert
 The rear sunroof drain tubes appear to have shrunk and pulled away from the ball end fitting, which allows drain water to leak directly onto my headliner.
 
-![Preview](https://github.com/XDleader555/cad_models/raw/main/vw_mkiv_a4_b5_sunroof_drain_tube_insert/res/FA-sunroof_rear_drain_hose_ball_end_female.jpg)
+![Preview](https://github.com/XDleader555/cad_models/raw/main/vw_mkiv_a4_b5_sunroof_drain_tube_insert/res/sunroof_rear_drain_hose_ball_end_female.jpg)
 
 Pry the hose from the ball end fitting using a flat head screwdriver and a twisting motion to break away the glue. (Apparently it's only glued in two places instead of all the way around)
 
@@ -16,4 +16,4 @@ Finally, enjoy searching for the other water leaks you missed. (RTV the front dr
 This project can also be found on thingiverse:
 https://www.thingiverse.com/thing:5121032
 
-![Preview](https://github.com/XDleader555/cad_models/raw/main/vw_mkiv_a4_b5_sunroof_drain_tube_insert/res/FA-sunroof_drain_hose_insert.jpg)
+![Preview](https://github.com/XDleader555/cad_models/raw/main/vw_mkiv_a4_b5_sunroof_drain_tube_insert/res/sunroof_drain_hose_insert.jpg)
