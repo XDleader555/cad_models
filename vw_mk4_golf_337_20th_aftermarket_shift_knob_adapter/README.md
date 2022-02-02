@@ -7,6 +7,6 @@ Non-Affilated Link:
 https://www.aliexpress.com/item/1005001690085370.html
 
 This project can also be found on thingiverse:
-https://www.thingiverse.com/thing:4947478
+https://www.thingiverse.com/thing:5229686
 
 ![Preview](https://github.com/XDleader555/cad_models/raw/main/vw_mk4_golf_337_20th_aftermarket_shift_knob_adapter/res/vw_mk4_golf_337_20th_aftermarket_shift_knob_adapter_preview.jpg)
