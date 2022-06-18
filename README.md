@@ -1,6 +1,6 @@
 # cad_models
 My collection of CAD models.
-I primarily model in Autodesk Inventor at home, but I model in CATIA at work.
+I model in Autodesk Inventor at home, but I primarily model in CATIA at work.
 
 Please do not upload my models to other websites. They will be released to Printables and Thingiverse when they are ready.
 
